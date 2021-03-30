@@ -1,4 +1,4 @@
-# bot-wa-122
+# bot-wa-1.2.2
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
